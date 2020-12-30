@@ -1,0 +1,2 @@
+# ConcealedChaosQuote
+Quote generator
